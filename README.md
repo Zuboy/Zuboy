@@ -1,6 +1,6 @@
 Hi , Aishwaryaraj Chandel here 
 
-🔭 I’m currently working on Smart Contracts on Ethereum blockchain
+🔭 I’m currently working on Smart Contracts on Ethereum blockchain \n
 🌱 I’m currently learning Solidity & C++
 👯 I’m looking to collaborate on Smart Contract based application
 🤔 I’m looking for help with Decentralized application
