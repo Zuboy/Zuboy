@@ -1,5 +1,6 @@
-Hi , Aishwaryaraj Chandel here , I would like to pursue master's degree in CS
-
+Hi , Aishwaryaraj Chandel here,
+Currently pursuing Master's of Computer Science @RPTU.de
+Major's in Intelligent Systems
 - 🔭 I’m currently working on LLM based application
 - 🌱 I’m currently learning ML and Image Processing
 - 👯 I’m also interested in AI based IOT devices , Automated Systems
